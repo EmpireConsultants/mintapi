@@ -259,7 +259,7 @@ make calls to retrieve account/budget information.  We recommend using the
   mint.get_budget_data()
 
   # Get transactions
-  mint.get_transaction_data() # as pandas dataframe
+  mint.get_transaction_data()
 
   # Get transactions for a specific account
   accounts = mint.get_account_data()
